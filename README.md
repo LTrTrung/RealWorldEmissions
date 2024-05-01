@@ -17,16 +17,16 @@ Billionares: https://climate-energy.eea.europa.eu/topics/transport/real-world-em
 - Microsoft Office: Report creation
 ### Tasks
 - Data Loading and Inspection:
- - Load data from source(s).
- - Examine data structure, identify issues, and get an overview.
+  - Load data from source(s).
+  - Examine data structure, identify issues, and get an overview.
 - Data Cleaning and Formatting:
- - Address inconsistencies and formatting errors.
- - Handle missing values appropriately.
- - Ensure data types are consistent.
+  - Address inconsistencies and formatting errors.
+  - Handle missing values appropriately.
+  - Ensure data types are consistent.
 - Remove Unnecessary Data:
- - Identify and exclude irrelevant or redundant features.
- - Streamline analysis and improve efficiency.
+  - Identify and exclude irrelevant or redundant features.
+  - Streamline analysis and improve efficiency.
 - Exploratory Data Analysis (EDA):
- - Use visualizations to explore data distribution, identify outliers, and reveal relationships.
- - Data Shaping for Visualization:
+  - Use visualizations to explore data distribution, identify outliers, and reveal relationships.
+  - Data Shaping for Visualization:
 - Report
